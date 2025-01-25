@@ -1,4 +1,4 @@
-# Hi there, I'm Bhoomi 👋
+# Hi there, I'm Bhoomika 👋
 
 ### 👩‍💻 *Aspiring Full-Stack Developer | Python Enthusiast*
 
