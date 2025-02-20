@@ -2,10 +2,11 @@
 <h3 align="center">🚀 Aspiring Full-Stack Developer | Python Enthusiast</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300" height="200">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHZ6ZHVrdmU4cmQ2N2Z2N3prMWxscTgyNmFpbGZhc3U1eGI2a3dkaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300" height="200">
 </p>
 
 ---
+
 ## 🛠️ About Me  
 💡 **4th-year Computer Science student** at **East West Institute of Technology (EWIT), Bengaluru**  
 💻 Passionate about **Full-Stack Development** & **Python**  
@@ -47,17 +48,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhoomikaniranjan&show_icons=true&theme=radical" height="180px">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhoomikaniranjan&theme=radical" height="180px">
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhoomikaniranjan&layout=compact&theme=radical" height="180px">
-</p>
-
----
-
 ## 🤝 Connect with Me  
 <p align="left">
   <a href="https://github.com/bhoomikaniranjan">
@@ -73,4 +63,4 @@
 
 ---
 
-🔥 *"Code. Innovate. Inspire."* 🔥
+⚡ **"Innovation begins where code meets creativity."** ⚡  
