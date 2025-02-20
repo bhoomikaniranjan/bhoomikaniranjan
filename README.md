@@ -2,8 +2,9 @@
 <h3 align="center">🚀 Aspiring Full-Stack Developer | Python Enthusiast</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LoMPLvM5dIo9W/giphy.gif" width="400" height="250">
+  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="400" height="250">
 </p>
+
 
 ---
 
@@ -11,14 +12,7 @@
 💡 **4th-year Computer Science student** at **East West Institute of Technology (EWIT), Bengaluru**  
 💻 Passionate about **Full-Stack Development** & **Python**  
 🚀 Exploring **Open-Source Contributions & Innovative Projects**  
-🌱 Currently learning **Flask, React.js, Node.js, MongoDB & UI/UX with Figma**  
-
----
-
-## 🎓 Education  
-🎓 **B.E. in Computer Science and Engineering**  
-🏫 **East West Institute of Technology**, Bengaluru  
-
+ 
 ---
 
 ## 💻 Tech Stack  
@@ -32,13 +26,6 @@
 </p>
 
 ---
-
-## 🚀 Projects  
-📌 **Lung Cancer Detection Application** – Built using **Streamlit & Python**  
-📌 **More exciting projects coming soon...**  
-
----
-
 ## 📜 Certifications  
 ✅ **Java Programming** - Ethnotech Academic Solutions  
 ✅ **AngularJS & Node.js** - TECH FORTUNE  
