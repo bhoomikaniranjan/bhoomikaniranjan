@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Aspiring Full-Stack Developer | Python Enthusiast</h3>
 
 <p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHZ6ZHVrdmU4cmQ2N2Z2N3prMWxscTgyNmFpbGZhc3U1eGI2a3dkaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300" height="200">
+  <img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="300" height="200">
 </p>
 
 ---
