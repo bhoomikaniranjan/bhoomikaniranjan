@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Aspiring Full-Stack Developer | Python Enthusiast</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="300" height="200">
+  <img src="https://media.giphy.com/media/yx2ZgH4TUnp5O/giphy.gif" width="300" height="200">
 </p>
 
 ---
@@ -45,6 +45,13 @@
 ✅ **Data Science using Python** - Ethnotech Academic Solutions  
 ✅ **Deep Dive into Python Libraries with ML Applications** - Aqmenz Automation Pvt. Ltd.  
 ✅ **Artificial Intelligence** - Ethnotech Academic Solutions  
+
+---
+
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhoomikaniranjan&layout=compact&theme=radical" height="180px">
+</p>
 
 ---
 
