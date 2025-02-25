@@ -5,18 +5,21 @@
   <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="400" height="250">
 </p>
 
-
 ---
 
 ## 🛠️ About Me  
 💡 **4th-year Computer Science student** at **East West Institute of Technology (EWIT), Bengaluru**  
 💻 Passionate about **Full-Stack Development** & **Python**  
 🚀 Exploring **Open-Source Contributions & Innovative Projects**  
- 
+
 ---
 
 ## 💻 Tech Stack  
 <p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -26,12 +29,14 @@
 </p>
 
 ---
+
 ## 📜 Certifications  
 ✅ **Java Programming** - Ethnotech Academic Solutions  
 ✅ **AngularJS & Node.js** - TECH FORTUNE  
 ✅ **Data Science using Python** - Ethnotech Academic Solutions  
 ✅ **Deep Dive into Python Libraries with ML Applications** - Aqmenz Automation Pvt. Ltd.  
 ✅ **Artificial Intelligence** - Ethnotech Academic Solutions  
+✅ **Self-Help Cognitive Behavioral Techniques (CBT)** - Udemy  
 
 ---
 
