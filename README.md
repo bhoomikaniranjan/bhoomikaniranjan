@@ -6,6 +6,9 @@
 </p>
 
 ---
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=bhoomikaniranjan&label=Profile%20views&color=0e75b6&style=flat" alt="bhoomikaniranjan" />
+</p>
 
 ## 🛠️ About Me  
 💡 **4th-year Computer Science student** at **East West Institute of Technology (EWIT), Bengaluru**  
