@@ -14,6 +14,7 @@
 💡 **4th-year Computer Science student** at **East West Institute of Technology (EWIT), Bengaluru**  
 💻 Passionate about **Full-Stack Development** & **Python**  
 🚀 Exploring **Open-Source Contributions & Innovative Projects**  
+⚡ Fun fact **I am Funny**
 
 ---
 
