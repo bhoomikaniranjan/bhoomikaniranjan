@@ -41,8 +41,8 @@
 ✅ **Data Science using Python** - Ethnotech Academic Solutions  
 ✅ **Deep Dive into Python Libraries with ML Applications** - Aqmenz Automation Pvt. Ltd.  
 ✅ **Artificial Intelligence** - Ethnotech Academic Solutions  
-✅ **Self-Help Cognitive Behavioral Techniques (CBT)** - Udemy 
-✅ **CSS, Bootstrap, JavaScript Web development course** - Udemy
+✅ **Self-Help Cognitive Behavioral Techniques (CBT)** - Udemy  
+✅ **CSS, Bootstrap, JavaScript Web Development Course** - Udemy  
 
 ---
 
