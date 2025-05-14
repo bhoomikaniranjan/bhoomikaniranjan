@@ -43,6 +43,8 @@
 ✅ **Artificial Intelligence** - Ethnotech Academic Solutions  
 ✅ **Self-Help Cognitive Behavioral Techniques (CBT)** - Udemy  
 ✅ **CSS, Bootstrap, JavaScript Web Development Course** - Udemy  
+✅ **Data Base Management System** - NPTEL
+✅ **Python-Full stack development** - Exskilence upskilling LLP
 
 ---
 
